@@ -10,7 +10,7 @@ body {
   padding: 0;
   height: 100vh;
 
-  background: linear-gradient(to right, #FFFFE0, #FFFFE0);
+  background: linear-gradient(to right, #FFFFE0,#FF7F50);
   background-size: cover;       
   background-position: center;  
   background-repeat: no-repeat;
