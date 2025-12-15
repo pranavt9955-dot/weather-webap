@@ -10,10 +10,9 @@ body {
     radial-gradient(
       circle at center,
       
-      #ffb347 25%,
+      
       #ff9a8b 45%,
       #fbc2eb 65%,
-      #a1c4fd 85%,
      
     );
   background-size: cover;
