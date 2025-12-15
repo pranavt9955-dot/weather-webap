@@ -6,7 +6,16 @@
 
 body {
   font-family: 'montserrat', sans-serif;
-  background-image: linear-gradient(to bottom right,red,yellow,green);
+  background: 
+    radial-gradient(
+      circle at center,
+      #ffd84d 0%,
+      #ffb347 25%,
+      #ff9a8b 45%,
+      #fbc2eb 65%,
+      #a1c4fd 85%,
+      #c2e9fb 100%
+    );
   background-size: cover;
   background-position: top center;
 }
