@@ -6,15 +6,7 @@
 
 body {
   font-family: 'montserrat', sans-serif;
-  background: 
-    radial-gradient(
-      circle at center,
-      
-      
-      #ff9a8b 45%,
-      #fbc2eb 65%,
-     
-    );
+  background-image: url("https://unsplash.com/photos/mountain-reflection-on-body-of-water-DlkF4-dbCOU")
   background-size: cover;
   background-position: top center;
 }
